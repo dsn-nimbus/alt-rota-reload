@@ -2,7 +2,7 @@
 
 describe('alt.rota-reload', function() {
   var _scope, _compile, _element, _timeoutMock, _route;
-  var TEMPO_ANIMACAO = 1234;
+  var TEMPO_ANIMACAO = 1000;
   var _icone;
 
   beforeEach(module('alt.rota-reload', function($provide) {

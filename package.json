@@ -1,6 +1,6 @@
 {
   "name": "alt-rota-reload",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "main": "dist/alt-rota-reload.min.js",
   "scripts": {
     "test": "gulp coverage"

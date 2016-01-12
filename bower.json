@@ -1,7 +1,7 @@
 {
   "name": "alt-rota-reload",
   "main": "dist/alt-rota-reload.min.js",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "homepage": "https://github.com/dsn-nimbus/alt-rota-reload.git",
   "authors": [
     "dsn-nimbus <ericdantas0@gmail.com>"
