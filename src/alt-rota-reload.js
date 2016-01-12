@@ -14,7 +14,7 @@
         var _restrict = 'E';
 
         function _link(scope, element, attrs) {
-          var TEMPO_ANIMACAO = 2000;
+          var TEMPO_ANIMACAO = 1234;
           var CLASSE_SPIN = 'fa-spin';
           var _icone = element.find('.fa-refresh').eq(0);
 
